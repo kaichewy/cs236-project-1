@@ -1,0 +1,11 @@
+.venv/
+output/
+CS236-Fall26-Project-Dataset/
+Phase1_Submission.zip
+*.csv
+*.zip
+
+# Local Python and macOS files
+__pycache__/
+*.py[cod]
+.DS_Store
